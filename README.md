@@ -1,2 +1,2 @@
 # AndroidProjects
-This Repository contains all the Android Projects .
+This Repository contains only the Android Projects .
